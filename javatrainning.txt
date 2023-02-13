@@ -1,0 +1,5 @@
+1.Version control system- used to modification to the code and also manage the changes in the source code.
+monitoring of versions,features.
+Types : - 1.local version - data losse if the main server crash
+		   2.centralized - more no of users,useless if no internet
+		   3.distributed - contains local servers to push and pull the data from remote server.local server uses when no internet access..
